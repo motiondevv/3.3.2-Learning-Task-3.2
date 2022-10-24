@@ -1,4 +1,4 @@
-package com.demo.splashscreendemo;
+package com.demo.SplashScreen;
 
 import org.junit.Test;
 

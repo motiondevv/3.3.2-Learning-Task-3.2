@@ -1,4 +1,4 @@
-package com.demo.splashscreendemo;
+package com.demo.SplashScreen;
 
 import android.content.Context;
 

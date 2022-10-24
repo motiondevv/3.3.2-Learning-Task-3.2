@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">SplashScreenDemo</string>
+    <string name="app_name">kkba1</string>
+    <string name="app_name1">Fries</string>
+    <string name="app_name2">Hotdog</string>
+    <string name="app_name3">Burger</string>
+    <string name="app_name4">Fried Chicken</string>
 </resources>
